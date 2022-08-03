@@ -1,7 +1,6 @@
 
 public class FootballPlayer {
-  
-  String Ronaldo;
+ 
   String name;
   int no;
   boolean inPlay;

@@ -8,11 +8,11 @@ public class FootballPlayerTest {
 		Ronaldo.name = "Cristiano Ronaldo";
 		Ronaldo.no = 7;
 		Ronaldo.inPlay = true;
-		Ronaldo.minutes = 15;
-		Ronaldo.numberOfGoals = 1;
+		Ronaldo.minutes = 0;
+		Ronaldo.numberOfGoals = 0;
 		
 		
-		Ronaldo.play(0);
+		Ronaldo.play(15);
 		Ronaldo.score();
 		Ronaldo.score();
 		
